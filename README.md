@@ -36,4 +36,6 @@
   <a href="https://www.linkedin.com/in/paulo-vin%C3%ADcius-campos-vespero-89b2b530b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/pauloVesperoo/pauloVesperoo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+    <img alt="github-snake" src="https://github.com/GabrielLaxy/GabrielLaxy/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
