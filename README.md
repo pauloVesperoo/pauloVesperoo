@@ -1,4 +1,4 @@
- ## Computer Engineer | Full Stack Developer
+## Computer Engineer | Full Stack Developer
 
 ## 👩‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -27,7 +27,6 @@
 
 ## 🖍 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
   ##
 ## Find me on:
  
