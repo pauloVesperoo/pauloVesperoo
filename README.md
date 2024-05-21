@@ -1,6 +1,4 @@
-## Hi there! Im Paulo Vinicius 
-
-## Computer Engineer | Full Stack Developer
+ ## Computer Engineer | Full Stack Developer
 
 ## 👩‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
