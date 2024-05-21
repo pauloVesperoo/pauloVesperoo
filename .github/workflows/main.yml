@@ -31,6 +31,7 @@ jobs:
           github_user_name: pauloVesperoo
           color_dots: purple
           color_snake: pink
+          color_background: black 
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
