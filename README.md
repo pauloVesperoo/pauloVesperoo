@@ -1,6 +1,6 @@
 # Paulo Vespero
 
-Estudante de Ciência da Computação no **Instituto Mauá de Tecnologia** (4º ano), com foco em **machine learning, deep learning e agentes de IA**. Gosto de entender os modelos por dentro: treino localmente na minha própria GPU, escrevo o loop de treino à mão e meço tudo contra uma referência simples antes de confiar no resultado.
+Estudante de Ciência da Computação no Instituto Mauá de Tecnologia. Hoje estou focado em machine learning, deep learning e agentes de IA, e aqui você encontra os projetos que venho construindo nessa área.
 
 ## Projetos em destaque
 
